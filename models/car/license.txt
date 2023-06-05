@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ford GT 2006
+* source:	https://sketchfab.com/3d-models/ford-gt-2006-ee5db1918a2b4c8cbe0388b67dee4b17
+* author:	Pooya_dh (https://sketchfab.com/Pooya_dh)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ford GT 2006" (https://sketchfab.com/3d-models/ford-gt-2006-ee5db1918a2b4c8cbe0388b67dee4b17) by Pooya_dh (https://sketchfab.com/Pooya_dh) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
